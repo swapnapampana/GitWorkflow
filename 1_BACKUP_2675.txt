@@ -1,4 +1,6 @@
 Welcome to Git Workflow
+<<<<<<< HEAD
 Feature1 added
+=======
 Feature2 Added
-
+>>>>>>> f2
